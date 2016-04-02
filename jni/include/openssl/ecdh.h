@@ -1,1 +1,1 @@
-../../crypto/ecdh/ecdh.h
+#include <openssl/ec.h>

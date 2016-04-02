@@ -1,1 +1,1 @@
-../../crypto/ecdsa/ecdsa.h
+#include <openssl/ec.h>
